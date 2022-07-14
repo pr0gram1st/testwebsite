@@ -1,0 +1,66 @@
+body{
+	margin: 0;
+	background-color: black;
+}
+
+.glavnoe{
+	font-family: 'Oswald', sans-serif;
+
+	color: white;
+	font-size: 50px;
+	text-align: center;	
+}
+
+.suretter{
+	text-align: center;
+	padding-bottom: 10%;
+}
+
+.text1{
+	margin-right: 25%;
+	font-size: 20px;
+}
+
+
+.childhood{
+
+	display: flex;
+	padding-left: 13%;
+	padding-right: 13%;
+	padding-top: 5%;
+	background-color: white;
+	padding-bottom: 7%;
+}
+
+.text2{
+	margin-left: 25%;
+	font-size: 20px;
+}
+
+
+.teenager{
+	color: white;
+	display: flex;
+	padding-left: 13%;
+	padding-right: 13%;
+	padding-top: 5%;
+	background-color: black;
+	padding-bottom: 7%;
+}
+
+
+.text3{
+	margin-right: 25%;
+	font-size: 20px;
+}
+
+
+.adult{
+
+	display: flex;
+	padding-left: 13%;
+	padding-right: 13%;
+	padding-top: 5%;
+	background-color: white;
+	padding-bottom: 7%;
+}
