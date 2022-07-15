@@ -124,3 +124,19 @@ body{
 	background-color: black;
 	color: white;
 }
+
+.map{
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+	background-color: white;
+	margin: -10%;
+	padding-top: 5%;
+	height: 700px;
+}
+footer{
+	text-align: center;
+	padding: 3%;	
+	font-family: 'Oswald', sans-serif;
+	background-color: black;
+	color: white;
+}
