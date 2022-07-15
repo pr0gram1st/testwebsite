@@ -64,3 +64,63 @@ body{
 	background-color: white;
 	padding-bottom: 7%;
 }
+
+.education{
+	height: 600px;
+}
+
+.school{
+	background-image: url('school.jpeg');
+	background-size: cover;
+	text-align: center;
+	height: 120%;
+	padding-top: 30%;
+	background-attachment: fixed;
+  	background-position: center;
+}
+
+.schooltitle{
+	font-family: 'Oswald', sans-serif;
+	font-size: 100px;
+	margin-bottom: 30%;
+	color: white;
+}
+
+.schooltext{
+	font-size: 20px;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	padding-left: 10%;
+	padding-right: 10%;
+	font-family: 'Oswald', sans-serif;
+	background-color: black;
+	color: white;
+}
+
+.university{
+	background-image: url('background.jpeg');
+	background-size: cover;
+	text-align: center;
+	height: 200%;
+	padding-top: 30%;
+	background-attachment: fixed;
+  	background-position: center;
+}
+
+.universitytitle{
+	font-family: 'Oswald', sans-serif;
+	font-size: 100px;
+	margin-bottom: 30%;
+	color: white;
+}
+
+.universitytext{
+	font-size: 20px;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	padding-left: 10%;
+	padding-right: 10%;
+	font-family: 'Oswald', sans-serif;
+	background-color: black;
+	color: white;
+}
